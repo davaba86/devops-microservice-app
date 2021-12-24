@@ -1,0 +1,17 @@
+# Terraform
+*/.terraform*
+*/terraform*
+
+# SSH Keys
+*/*.pem
+
+# Ansible
+*/inventory.yml
+*/ansible_collections
+
+# Public GitHub Repo
+*/getting-started
+*/app
+
+# macOS
+.DS_Store
